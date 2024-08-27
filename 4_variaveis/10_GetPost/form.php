@@ -8,8 +8,7 @@
 </head>
 
 <body>
-    <!-- <form action="index.php" method="post"> <METODO POST>  -->
-    <form action="index.php" method="get"> <METODO GET> 
+    <form action="index.php" method="get"> <!-- <METODO POST> --> 
         Nome: <input type="text" name="userName" /><br />
         Email: <input type="email" name="email" /><br />
 
