@@ -10,3 +10,4 @@ function media($lista, $tamanho)
 $lista = array(1, 2, 3, 4);
 $m = media($lista, count($lista));
 echo $m . "\n";
+//2,5

@@ -12,3 +12,4 @@
 </body>
 
 </html>
+<!-- //010 Variaveis externas GET e POST. -->
